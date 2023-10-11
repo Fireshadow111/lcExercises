@@ -1,0 +1,25 @@
+
+/*I didnt like how it looked so I centred everything*/
+
+.h1{
+    color: orange;
+    text-align: center;
+}
+
+.h2{
+    color: chocolate;
+    text-align: center;
+
+}
+
+.para{
+    color:maroon;
+    font-family: Times New Roman;
+    text-align: center;
+
+}
+
+body{
+    margin: 2%;
+}
+
